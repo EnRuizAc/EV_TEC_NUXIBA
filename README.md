@@ -18,7 +18,7 @@ Nombre: José Enrique Ruiz Acosta
 
 ## Prueba 1 ##
 
-Para esta prueba será necesario agregar (al directorio **Prueba_2**) las sentencias de SQL con las que se creo el esquema(base de datos y tablas) y las consultas realizadas para responder a los siguientes puntos:
+Para esta prueba será necesario agregar (al directorio **Prueba_2**) las sentencias de SQL con las que se creo el esquema (base de datos y tablas) y las consultas realizadas para responder a los siguientes puntos:
 
 > *Nota: Para realizar esta prueba es necesario tener una instancia de [SQL Server Developer, SQL Server Express](https://www.microsoft.com/es-mx/sql-server/sql-server-downloads) o [MySQL Community](https://dev.mysql.com/downloads/mysql/) instalada en tu equipo, si por algún motivo no puedes instalar una versión de las anteriores, puedes entrar a [db-fiddle](https://www.db-fiddle.com/) para realizarla*
 
@@ -41,7 +41,7 @@ Para esta prueba será necesario agregar (al directorio **Prueba_2**) las senten
 * Genera las sentencias SQL que respondan lo siguiente:
 	* Depurar solo los ID diferentes de 6,7,9 y 10  de la tabla  **usuarios** **_(5 puntos)_**
 	* Actualizar el dato Sueldo en un 10 porciento a los empleados que tienen fechas entre el año 2000 y 2001 **_(5 puntos)_**
-	* Realiza una consulta para traer el nombre de usuario y fecha de ingreso de los usuarios que gananen mas de 10000 y su apellido comience con 
+	* Realiza una consulta para traer el nombre de usuario y fecha de ingreso de los usuarios que ganen mas de 10000 y su apellido comience con 
 	T ordernado del mas reciente al mas antiguo **_(10 puntos)_**
 	* Realiza una consulta donde agrupes a los empleados por sueldo, un grupo con los que ganan menos de 1200 y uno mayor o igual a 1200, cuantos hay en cada grupo? **_(10 puntos)_**
 
@@ -50,9 +50,9 @@ Para esta prueba será necesario agregar (al directorio **Prueba_2**) las senten
 ## Prueba 2 ##
 * Crea una aplicación (dentro del directorio **Prueba_2**) en .NET que realice lo siguiente:
 	* Listar top 10 usuarios de la base antes creada **_(10 puntos)_**
-	* Generar un archivo csv con las siguienets campos con su información(Login, Nombre completo, sueldo, fecha Ingreso)  **_(25 puntos)_**
+	* Generar un archivo csv con las siguientes campos con su información(Login, Nombre completo, sueldo, fecha Ingreso)  **_(25 puntos)_**
 	* Poder actualizar el salario del algun usuario especifico **_(10 puntos)_**
-	* Poder Tener una opcion para agregar un nuevo usuario y se pueda asiganar el salario y la fecha de ingreso por default el dia de hoy **_(25 puntos)_**
+	* Poder Tener una opcion para agregar un nuevo usuario y se pueda asignar el salario y la fecha de ingreso por default el dia de hoy **_(25 puntos)_**
 
 
 
